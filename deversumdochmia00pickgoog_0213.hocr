@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deversumdochmia00pickgoog_0213.png"; bbox 0 0 3038 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 168 2223 1344 2509">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 168 2223 1344 2509">
+     <span class='ocr_line' id='line_1_1' title="bbox 168 2223 1344 2295; baseline 0 -16"><span class='ocrx_word' id='word_1_1' title='bbox 168 2223 218 2279; x_wconf 86' lang='lat' dir='ltr'>Ad</span> <span class='ocrx_word' id='word_1_2' title='bbox 243 2224 485 2295; x_wconf 89' lang='lat' dir='ltr'>philosophorum</span> <span class='ocrx_word' id='word_1_3' title='bbox 505 2223 687 2279; x_wconf 87' lang='lat' dir='ltr'>Gissensium</span> <span class='ocrx_word' id='word_1_4' title='bbox 706 2225 840 2280; x_wconf 88' lang='lat' dir='ltr'>ordinem</span> <span class='ocrx_word' id='word_1_5' title='bbox 865 2225 902 2279; x_wconf 91' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_6' title='bbox 929 2224 983 2281; x_wconf 91' lang='lat' dir='ltr'>hac</span> <span class='ocrx_word' id='word_1_7' title='bbox 1009 2224 1215 2280; x_wconf 87' lang='lat' dir='ltr'>dissertatione</span> <span class='ocrx_word' id='word_1_8' title='bbox 1233 2224 1344 2281; x_wconf 87' lang='lat' dir='ltr'><strong>rettulit</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 584 2332 932 2388; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 584 2333 766 2388; x_wconf 85' lang='lat' dir='ltr'>Alfredus</span> <span class='ocrx_word' id='word_1_10' title='bbox 790 2332 932 2388; x_wconf 87' lang='lat' dir='ltr'><strong>Koerte</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 643 2439 866 2509; baseline 0 -15"><span class='ocrx_word' id='word_1_11' title='bbox 643 2457 686 2494; x_wconf 85' lang='lat'>21.</span> <span class='ocrx_word' id='word_1_12' title='bbox 707 2439 766 2494; x_wconf 92' lang='lat' dir='ltr'>Vll.</span> <span class='ocrx_word' id='word_1_13' title='bbox 792 2443 866 2509; x_wconf 87' lang='lat'>1908.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1524 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1524 5010">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1524 5010; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1524 5010; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
